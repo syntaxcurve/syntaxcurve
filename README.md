@@ -1,10 +1,10 @@
-**#💫 About Me:**
- 🔭 I'm currently working on build portfolio and pdf automation based model.<
- 🌱 Pursue BSc Math & preparing for GATE.
- 👯 I’m looking to collaborate on DSA & Web-Development
- 🤔 I’m looking for help with build a website
- 💬 Ask me about pdf automation related projects
- 😄 Pronouns: Kailashy
+#**💫 About Me:**
+ - 🔭 I'm currently working on build portfolio and pdf automation based model.<
+ - 🌱 Pursue BSc Math & preparing for GATE.
+ - 👯 I’m looking to collaborate on DSA & Web-Development
+ - 🤔 I’m looking for help with build a website
+ - 💬 Ask me about pdf automation related projects
+ - 😄 Pronouns: Kailashy
 
 
 ## 🌐 Socials:
