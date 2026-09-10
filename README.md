@@ -8,7 +8,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kailashi_offical) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj_kailashi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/suraj_kailashi) 
+[![Instagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOF8cZ-mlqOJzDbyLirSg7hv2ND0ap5Jq9PuNC58HTlQ&s=10)](https://instagram.com/kailashi_offical) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suraj_kailashi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/suraj_kailashi) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
